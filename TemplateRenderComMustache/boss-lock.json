@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2023-06-02T16:31:26.8778737-03:00",
+	"installedModules": {
+		"https://github.com/synopse/dmustache": {
+			"name": "dmustache",
+			"version": "master",
+			"hash": "c3276855f1febd4e921164113c1e8ec6",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
